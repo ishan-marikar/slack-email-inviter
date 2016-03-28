@@ -1,0 +1,19 @@
+{
+  "name": "slack-email-inviter",
+  "version": "1.0.0",
+  "description": "[![NPM](https://nodei.co/npm/slack-email-inviter.png)](https://nodei.co/npm/slack-email-inviter/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishan-marikar/slack-email-inviter.git"
+  },
+  "author": "Ishan Marikar <ishan.marikar@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ishan-marikar/slack-email-inviter/issues"
+  },
+  "homepage": "https://github.com/ishan-marikar/slack-email-inviter#readme"
+}
